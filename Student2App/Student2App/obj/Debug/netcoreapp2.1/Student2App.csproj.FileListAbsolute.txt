@@ -1,0 +1,11 @@
+D:\JPTVR18\C#\Student2App\Student2App\bin\Debug\netcoreapp2.1\Student2App.deps.json
+D:\JPTVR18\C#\Student2App\Student2App\bin\Debug\netcoreapp2.1\Student2App.runtimeconfig.json
+D:\JPTVR18\C#\Student2App\Student2App\bin\Debug\netcoreapp2.1\Student2App.runtimeconfig.dev.json
+D:\JPTVR18\C#\Student2App\Student2App\bin\Debug\netcoreapp2.1\Student2App.dll
+D:\JPTVR18\C#\Student2App\Student2App\bin\Debug\netcoreapp2.1\Student2App.pdb
+D:\JPTVR18\C#\Student2App\Student2App\obj\Debug\netcoreapp2.1\Student2App.csproj.CoreCompileInputs.cache
+D:\JPTVR18\C#\Student2App\Student2App\obj\Debug\netcoreapp2.1\Student2App.AssemblyInfoInputs.cache
+D:\JPTVR18\C#\Student2App\Student2App\obj\Debug\netcoreapp2.1\Student2App.AssemblyInfo.cs
+D:\JPTVR18\C#\Student2App\Student2App\obj\Debug\netcoreapp2.1\Student2App.dll
+D:\JPTVR18\C#\Student2App\Student2App\obj\Debug\netcoreapp2.1\Student2App.pdb
+D:\JPTVR18\C#\Student2App\Student2App\obj\Debug\netcoreapp2.1\Student2App.csprojAssemblyReference.cache
