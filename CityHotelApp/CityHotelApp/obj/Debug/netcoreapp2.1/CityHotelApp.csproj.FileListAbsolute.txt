@@ -1,0 +1,11 @@
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\bin\Debug\netcoreapp2.1\CityHotelApp.deps.json
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\bin\Debug\netcoreapp2.1\CityHotelApp.runtimeconfig.json
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\bin\Debug\netcoreapp2.1\CityHotelApp.runtimeconfig.dev.json
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\bin\Debug\netcoreapp2.1\CityHotelApp.dll
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\bin\Debug\netcoreapp2.1\CityHotelApp.pdb
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\obj\Debug\netcoreapp2.1\CityHotelApp.csprojAssemblyReference.cache
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\obj\Debug\netcoreapp2.1\CityHotelApp.csproj.CoreCompileInputs.cache
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\obj\Debug\netcoreapp2.1\CityHotelApp.AssemblyInfoInputs.cache
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\obj\Debug\netcoreapp2.1\CityHotelApp.AssemblyInfo.cs
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\obj\Debug\netcoreapp2.1\CityHotelApp.dll
+D:\JPTVR18\C#\CityHotelApp\CityHotelApp\obj\Debug\netcoreapp2.1\CityHotelApp.pdb
